@@ -1,0 +1,4 @@
+image:
+  tag: 1.28
+env:
+  APP_ENV: prod
